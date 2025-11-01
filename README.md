@@ -58,15 +58,16 @@ def q_learning(env,
 ```
 ## OUTPUT:
 
-<img width="396" height="302" alt="image" src="https://github.com/user-attachments/assets/f943c1b4-ea21-4d98-a471-4fe1c4d3ab9e" />
+<img width="879" height="141" alt="image" src="https://github.com/user-attachments/assets/d63ba273-83df-4335-b06d-30f16dc332d5" />
 
-<img width="821" height="632" alt="image" src="https://github.com/user-attachments/assets/32cd7994-361a-4818-aeb4-ced810387929" />
+<img width="826" height="610" alt="image" src="https://github.com/user-attachments/assets/59e5ac15-883d-4ca2-b2a4-e29151a3ae5f" />
 
-<img width="565" height="147" alt="image" src="https://github.com/user-attachments/assets/6dd391d1-1295-452b-8f33-8dbfc10126ad" />
+<img width="1191" height="84" alt="image" src="https://github.com/user-attachments/assets/b5dc9ffd-d827-426d-819c-5b117c6121d8" />
 
-<img width="1322" height="495" alt="image" src="https://github.com/user-attachments/assets/a5805436-ed17-4b5b-a4d6-0e3a31462ba0" />
+<img width="1841" height="777" alt="download" src="https://github.com/user-attachments/assets/a23fd8a7-41f1-4370-b388-8c7ba8893f6e" />
 
-<img width="1399" height="492" alt="image" src="https://github.com/user-attachments/assets/95b965af-21ac-4b5e-8648-b761f7caa273" />
+<img width="1887" height="777" alt="download" src="https://github.com/user-attachments/assets/fa2f5c13-e05e-41cd-81f7-522b8793ce51" />
+
 
 ## RESULT:
 Therefore, python program to find optimal policy using Q-Learning is developed and state value function obtained is compared with first visit monte carlo. 
